@@ -48,6 +48,7 @@ DrumKit/
 └── kick.png
 
 
-![Preview](preview/Screenshot_2024-03-14_203412.png)
+![Preview](preview/Screenshot%202024-03-14%20203412.png)
+
 
 
